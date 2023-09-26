@@ -1,0 +1,14 @@
+Assignment: 1.1 -Frailty Data
+        |
+        |______ Q1
+        |______data_clean
+			|_____Frailty.csv
+		|______data_raw
+			|______Frailty.csv
+		|______results
+			|______ GripStrength_Weight_Relation
+            |______ Grip_Strength_Distribution
+		|______src
+			|______ clean_data.ipynb
+			|______ data_analysis.ipynb
+		|______README.md
