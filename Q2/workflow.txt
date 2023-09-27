@@ -1,0 +1,12 @@
+            
+                |______ Question_2
+           		|______data_clean
+			|______data_clean_StudentsPerformance.csv
+		|______data_raw
+			|______StudentsPerformance.csv
+		|______results
+			|______Student Performance Analysis .docx
+		|______src
+			|______data_analysis.ipynb
+			|______data_loading.ipynb
+			|______data_preprocessing.ipynb
